@@ -6,7 +6,7 @@ This project aims to support data-driven discussions about public safety, urban 
 
 ---
 
-## 📌 Project Overview
+## Project Overview
 
 The project processes public security data from São Paulo and generates an interactive **heatmap** that highlights areas with higher concentrations of violent incidents over a given period.
 
@@ -18,7 +18,7 @@ Key goals:
 
 ---
 
-## 🗺️ Data Sources
+## Data Sources
 
 - **São Paulo State Public Security Secretariat (SSP-SP)**
 - **São Paulo Open Data Portal**
@@ -29,7 +29,7 @@ Key goals:
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ### Core
 - **Python 3.10+**
@@ -48,7 +48,7 @@ Key goals:
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 
 ```text
 sp-violence-heatmap/
