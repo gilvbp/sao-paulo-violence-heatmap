@@ -1,0 +1,23 @@
+# Core data processing
+pandas>=2.1
+numpy>=1.24
+
+# Geospatial processing
+geopandas>=0.14
+shapely>=2.0
+pyproj>=3.6
+fiona>=1.9
+
+# Geocoding
+geopy>=2.4
+
+# Visualization & maps
+folium>=0.15
+branca>=0.7
+
+# Utilities
+tqdm>=4.66
+python-dateutil>=2.8
+
+# Optional (notebooks)
+jupyterlab>=4.0
